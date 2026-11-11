@@ -1,0 +1,1635 @@
+{
+  "sourceLanguage": "en",
+  "strings": {
+    "demo.hangoutCreated.title": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Hangout created"
+          }
+        }
+      }
+    },
+    "demo.hangoutCreated.code %@": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Demo invite code: %@"
+          }
+        }
+      }
+    },
+    "app.name": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Wena"
+          }
+        },
+        "id": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Wena"
+          }
+        }
+      }
+    },
+    "common.close": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Close"
+          }
+        }
+      }
+    },
+    "expedition.action.addToPassport": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Add to passport"
+          }
+        }
+      }
+    },
+    "expedition.action.collectStop": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Collect Stamps"
+          }
+        }
+      }
+    },
+    "expedition.action.collectTrip": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Collect trip stamp"
+          }
+        }
+      }
+    },
+    "expedition.action.details": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Details"
+          }
+        }
+      }
+    },
+    "expedition.action.finish": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Finish trip"
+          }
+        }
+      }
+    },
+    "expedition.action.next": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Next stop"
+          }
+        }
+      }
+    },
+    "expedition.action.share": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Share passport"
+          }
+        }
+      }
+    },
+    "expedition.course.appetizer": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Appetizer"
+          }
+        }
+      }
+    },
+    "expedition.course.dessert": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dessert"
+          }
+        }
+      }
+    },
+    "expedition.course.main": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Main course"
+          }
+        }
+      }
+    },
+    "expedition.passport.collected %lld": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%lld of 3 stamps collected"
+          }
+        }
+      }
+    },
+    "expedition.passport.complete": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Trip complete"
+          }
+        }
+      }
+    },
+    "expedition.passport.finishAll": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Finish all stops"
+          }
+        }
+      }
+    },
+    "expedition.passport.postmark %@": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ · 10 Nov"
+          }
+        }
+      }
+    },
+    "expedition.passport.readyToClaim": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ready to claim"
+          }
+        }
+      }
+    },
+    "expedition.passport.sampleDate": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "10 Nov"
+          }
+        }
+      }
+    },
+    "expedition.passport.stamped": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Stamp collected"
+          }
+        }
+      }
+    },
+    "expedition.passport.stampingStop %lld": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Stamping stop %lld of 3"
+          }
+        }
+      }
+    },
+    "expedition.passport.stampingTrip": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Stamping your Trip stamp"
+          }
+        }
+      }
+    },
+    "expedition.passport.title": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Expedition passport"
+          }
+        }
+      }
+    },
+    "expedition.passport.tripStamp": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Trip stamp"
+          }
+        }
+      }
+    },
+    "expedition.passport.unstamped": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Stamp not collected"
+          }
+        }
+      }
+    },
+    "expedition.stamp.adding": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Adding it to your passport…"
+          }
+        }
+      }
+    },
+    "expedition.stamp.collected": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Stamp collected"
+          }
+        }
+      }
+    },
+    "expedition.stamp.pressing": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pressing your stamp…"
+          }
+        }
+      }
+    },
+    "expedition.stamp.progress %@ %lld": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%1$@ · %2$lld of 3 stops"
+          }
+        }
+      }
+    },
+    "expedition.stamp.unlocked": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Stamp unlocked!"
+          }
+        }
+      }
+    },
+    "expedition.stamp.unlockedMessage %@": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ is now in your passport."
+          }
+        }
+      }
+    },
+    "expedition.stop.course %lld %@": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Stop %1$lld · %2$@"
+          }
+        }
+      }
+    },
+    "expedition.stop.dare": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "We dare you"
+          }
+        }
+      }
+    },
+    "expedition.stop.sampleRating": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "4.8 (258)   Rp 50–75K"
+          }
+        }
+      }
+    },
+    "expedition.stop.suggestion": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Try their Nasi Tempong & Es Kluwih"
+          }
+        }
+      }
+    },
+    "expedition.stop.photo %lld": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Photo %lld"
+          }
+        }
+      }
+    },
+    "expedition.stop.walking %@": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ walk from the previous stop"
+          }
+        }
+      }
+    },
+    "expedition.trip.allStops": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "3 of 3 stops stamped"
+          }
+        }
+      }
+    },
+    "expedition.trip.celebrationSubtitle": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "You finished the Food Expedition."
+          }
+        }
+      }
+    },
+    "expedition.trip.celebrationTitle": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Trip complete!"
+          }
+        }
+      }
+    },
+    "expedition.trip.foodComplete": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Food Expedition complete"
+          }
+        }
+      }
+    },
+    "expedition.trip.plusStamp": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "+1 trip stamp"
+          }
+        }
+      }
+    },
+    "expedition.trip.ready": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Your Trip stamp is ready."
+          }
+        }
+      }
+    },
+    "expedition.trip.stampImprint": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "FOOD EXPEDITION"
+          }
+        }
+      }
+    },
+    "expedition.trip.summary": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "All 3 stops and the Trip stamp collected."
+          }
+        }
+      }
+    },
+    "expedition.trip.threeStops": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "3 of 3 stops"
+          }
+        }
+      }
+    },
+    "onboarding.cover.openMenu": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tap to open menu book"
+          }
+        }
+      }
+    },
+    "onboarding.foodPicks.title": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "What do you usually like to eat?"
+          }
+        }
+      }
+    },
+    "onboarding.foodPicks.continue": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Continue"
+          }
+        }
+      }
+    },
+    "onboarding.foodPicks.nusantara": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nusantara\nFeast"
+          }
+        }
+      }
+    },
+    "onboarding.foodPicks.ramenAndSushi": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ramen &\nSushi"
+          }
+        }
+      }
+    },
+    "onboarding.foodPicks.pizzaAndPasta": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pizza & Pasta"
+          }
+        }
+      }
+    },
+    "onboarding.foodPicks.koreanWave": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Korean Wave"
+          }
+        }
+      }
+    },
+    "onboarding.foodPicks.chineseFood": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Chinese\nFood"
+          }
+        }
+      }
+    },
+    "onboarding.foodPicks.steakAndGrill": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Steak & Grill"
+          }
+        }
+      }
+    },
+    "onboarding.foodPicks.seafood": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Seafood"
+          }
+        }
+      }
+    },
+    "onboarding.foodPicks.cakeAndPastry": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Cake &\nPastry"
+          }
+        }
+      }
+    },
+    "onboarding.foodPicks.iceCreamAndGelato": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ice Cream\n& Gelato"
+          }
+        }
+      }
+    },
+    "onboarding.foodPicks.coffeeAndMatcha": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Coffee &\nMatcha"
+          }
+        }
+      }
+    },
+    "onboarding.places.reason %@": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Because you like %@"
+          }
+        }
+      }
+    },
+    "onboarding.places.walkingTime %lld": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%lld min walk"
+          }
+        }
+      }
+    },
+    "onboarding.prototype.back": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Back"
+          }
+        }
+      }
+    },
+    "onboarding.prototype.placesTitle": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "What’s your go-to visit?"
+          }
+        }
+      }
+    },
+    "onboarding.picks.range": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pick 3 to 5"
+          }
+        }
+      }
+    },
+    "onboarding.picks.count %lld %lld": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%1$lld of %2$lld picked"
+          }
+        }
+      }
+    },
+    "onboarding.prototype.kanchin": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Kanchin Chinese Food & Seafood"
+          }
+        }
+      }
+    },
+    "onboarding.prototype.hanguksu": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Han Guksu Korean Noodle The Breeze BSD"
+          }
+        }
+      }
+    },
+    "onboarding.places.chineseFood": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Chinese Food"
+          }
+        }
+      }
+    },
+    "onboarding.places.kWave": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "K-Wave"
+          }
+        }
+      }
+    },
+    "onboarding.places.chineseFoodReason": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Because you like Chinese Food"
+          }
+        }
+      }
+    },
+    "onboarding.places.kWaveReason": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Because you like Korean Wave"
+          }
+        }
+      }
+    },
+    "onboarding.places.sampleWalkingTime": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "9 min walk"
+          }
+        }
+      }
+    },
+    "onboarding.prototype.loading": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Plating your taste profile…"
+          }
+        }
+      }
+    },
+    "onboarding.prototype.personaTitle": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Your food persona"
+          }
+        }
+      }
+    },
+    "onboarding.prototype.persona": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "The Chopstick Boss"
+          }
+        }
+      }
+    },
+    "onboarding.persona.kalcerAkamsi": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "The Kalcer Akamsi"
+          }
+        }
+      }
+    },
+    "onboarding.persona.weekendCafeHopper": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "The Weekend Cafe Hopper"
+          }
+        }
+      }
+    },
+    "onboarding.persona.oldTownFeaster": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "The Old Town Feaster"
+          }
+        }
+      }
+    },
+    "onboarding.prototype.flavors": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Flavors you lean toward"
+          }
+        }
+      }
+    },
+    "onboarding.prototype.ramen": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ramen & Sushi"
+          }
+        }
+      }
+    },
+    "onboarding.prototype.nusantara": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nusantara"
+          }
+        }
+      }
+    },
+    "onboarding.prototype.coffee": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Coffee"
+          }
+        }
+      }
+    },
+    "onboarding.prototype.savory": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Savory"
+          }
+        }
+      }
+    },
+    "onboarding.prototype.edit": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Edit my picks"
+          }
+        }
+      }
+    },
+    "onboarding.prototype.complete": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Onboarding complete"
+          }
+        }
+      }
+    },
+    "onboarding.prototype.goToM4": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Go to M4"
+          }
+        }
+      }
+    },
+    "onboarding.prototype.dismiss": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dismiss"
+          }
+        }
+      }
+    },
+    "onboarding.error.save": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Your picks weren’t saved"
+          }
+        }
+      }
+    },
+    "onboarding.error.saveDetail": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Something went wrong on our side. Tap Try again to save your picks."
+          }
+        }
+      }
+    },
+    "onboarding.error.menu": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "The menu isn’t out yet"
+          }
+        }
+      }
+    },
+    "onboarding.error.menuDetail": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Wena couldn’t get the food list. Try again in a moment."
+          }
+        }
+      }
+    },
+    "onboarding.error.offline": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "You’re offline"
+          }
+        }
+      }
+    },
+    "onboarding.error.offlineDetail": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Your picks are safe. We’ll continue when signal is back."
+          }
+        }
+      }
+    },
+    "onboarding.error.busy": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "The kitchen is full"
+          }
+        }
+      }
+    },
+    "onboarding.error.busyDetail": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Your profile isn’t done yet, but your picks are safe. Try again."
+          }
+        }
+      }
+    },
+    "onboarding.error.notNow": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Not now"
+          }
+        }
+      }
+    },
+    "onboarding.error.retry": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Try again"
+          }
+        }
+      }
+    },
+    "onboarding.splash.tagline": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "A little flavor, a lot of togetherness."
+          }
+        }
+      }
+    },
+    "tripEntry.create.detail": {
+      "comment": "Description of the create option, from Figma.",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "You pick where, budget and halal once, then invite your friends."
+          }
+        }
+      }
+    },
+    "tripEntry.create.role": {
+      "comment": "Role label for the person creating a hangout.",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Initiator"
+          }
+        }
+      }
+    },
+    "tripEntry.create.title": {
+      "comment": "Create option and bottom action title when selected.",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Create a hangout"
+          }
+        }
+      }
+    },
+    "tripEntry.join.detail": {
+      "comment": "Description of the join option, from Figma.",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Got a link or code? Add your taste to a friend’s hangout."
+          }
+        }
+      }
+    },
+    "tripEntry.join.role": {
+      "comment": "Role label for someone joining a hangout.",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Member"
+          }
+        }
+      }
+    },
+    "tripEntry.join.title": {
+      "comment": "Join option and bottom action title when selected.",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Join a hangout"
+          }
+        }
+      }
+    },
+    "tripEntry.subtitle": {
+      "comment": "Supporting copy for the M2 entry screen.",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Start a hangout for your friends, or join one you were invited to."
+          }
+        }
+      }
+    },
+    "tripEntry.title": {
+      "comment": "Heading for the M2 create/join entry screen.",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Plan or join a hangout"
+          }
+        }
+      }
+    },
+    "tripSetup.title": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Set up your hangout"
+          }
+        }
+      }
+    },
+    "tripSetup.subtitle": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pick where, how much and when. Your friends will see the same details."
+          }
+        }
+      }
+    },
+    "tripSetup.destination": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Where to?"
+          }
+        }
+      }
+    },
+    "tripSetup.destination.maggiore": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Maggiore"
+          }
+        }
+      }
+    },
+    "tripSetup.destination.hamptonSquare": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Hampton Square"
+          }
+        }
+      }
+    },
+    "tripSetup.destination.blokM": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Blok M"
+          }
+        }
+      }
+    },
+    "tripSetup.destination.detail": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Areas Wena can map right now."
+          }
+        }
+      }
+    },
+    "tripSetup.budget": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Budget per person"
+          }
+        }
+      }
+    },
+    "tripSetup.currency": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Rp"
+          }
+        }
+      }
+    },
+    "tripSetup.date": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Date"
+          }
+        }
+      }
+    },
+    "tripSetup.food": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Group food setting"
+          }
+        }
+      }
+    },
+    "tripSetup.food.halal": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Halal"
+          }
+        }
+      }
+    },
+    "tripSetup.food.nonHalal": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Non-halal"
+          }
+        }
+      }
+    },
+    "tripSetup.food.detail": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "One setting for the whole group."
+          }
+        }
+      }
+    },
+    "tripSetup.create": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Create hangout"
+          }
+        }
+      }
+    },
+    "tripSetup.displayName": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Display name"
+          }
+        }
+      }
+    },
+    "tripSetup.creating": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Creating hangout…"
+          }
+        }
+      }
+    },
+    "tripSetup.error.title": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Couldn’t create hangout"
+          }
+        }
+      }
+    },
+    "tripSetup.error.name": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Enter a display name with 1 to 20 characters."
+          }
+        }
+      }
+    },
+    "tripSetup.error.budget": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Enter a valid budget per person greater than zero."
+          }
+        }
+      }
+    },
+    "tripSetup.error.date": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Choose today or a later date in Jakarta time."
+          }
+        }
+      }
+    },
+    "tripSetup.error.request": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Wena couldn’t confirm that your hangout was created."
+          }
+        }
+      }
+    },
+    "tripShare.title": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Share your taste with the group"
+          }
+        }
+      }
+    },
+    "tripShare.subtitle": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "We reuse the picks you already made, so there is nothing to fill in again."
+          }
+        }
+      }
+    },
+    "tripShare.summary.source": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "FROM WHAT WENA NOTED"
+          }
+        }
+      }
+    },
+    "tripShare.summary.places": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "GO-TO PLACES"
+          }
+        }
+      }
+    },
+    "tripShare.summary.distance": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Under 1 km"
+          }
+        }
+      }
+    },
+    "tripShare.summary.ichisan": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ichisan Ramen"
+          }
+        }
+      }
+    },
+    "tripShare.summary.kluwih": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Kluwih The Breeze"
+          }
+        }
+      }
+    },
+    "tripShare.detail": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Your picks are added to this hangout."
+          }
+        }
+      }
+    },
+    "tripShare.submit": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Submit my taste"
+          }
+        }
+      }
+    },
+    "tripShare.change": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Change my picks"
+          }
+        }
+      }
+    },
+    "onboarding.error.close": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Close"
+          }
+        }
+      }
+    },
+    "expedition.category.breadPastry": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bread & Pastry"
+          }
+        }
+      }
+    },
+    "expedition.category.ramenSushi": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ramen & Sushi"
+          }
+        }
+      }
+    },
+    "expedition.category.coffeeMatcha": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Coffee & Matcha"
+          }
+        }
+      }
+    },
+    "expedition.stop.photos %@": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Photos of %@"
+          }
+        }
+      }
+    },
+    "expedition.stop.ratingSummary %@ %lld %@": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Rated %1$@ from %2$lld reviews, Rp %3$@"
+          }
+        }
+      }
+    },
+    "expedition.stop.approvedBy %@": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "approved by %@"
+          }
+        }
+      }
+    },
+    "expedition.stop.streetAndWalk %@ %@": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%1$@ · %2$@ walk"
+          }
+        }
+      }
+    }
+  },
+  "version": "1.0"
+}

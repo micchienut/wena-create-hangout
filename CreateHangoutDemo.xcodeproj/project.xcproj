@@ -10,6 +10,12 @@
       "Base",
     ],
   },
+  "packages": [
+    {
+      "kind": "local",
+      "path": "Packages/WenaDesignSystem",
+    },
+  ],
   "files": [
     { "kind": "folder", "path": "CreateHangoutDemo", "target-membership": [ "CreateHangoutDemo" ] },
     {
@@ -30,6 +36,12 @@
         "compile-sources",
         "frameworks",
         "resources",
+      ],
+      "package-product-members": [
+        {
+          "product-name": "WenaDesignSystem",
+          "build-phase": { "build-phase": "frameworks" },
+        },
       ],
       "build-settings": {
         "ASSETCATALOG_COMPILER_APPICON_NAME": "AppIcon",
